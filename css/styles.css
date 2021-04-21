@@ -9,12 +9,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 
-@import "./main.css";
+@import "./reset.css";
 
 @import "./header.css";
+
+@import "./main.css";
 
 @import "./team.css";
 
 @import "./footer.css";
 
-@import "./reset.css"
